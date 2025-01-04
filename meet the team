@@ -1,0 +1,182 @@
+      <!-- Meet The Team-->
+       <section class="section section-sm section-fluid bg-default" id="team">
+        <div class="container-fluid">
+          <h2>Meet The Team</h2>
+          <div class="row row-sm row-30 justify-content-center">
+            <div class="col-md-6 col-lg-5 col-xl-3 wow fadeInRight">
+              <!-- Team Classic-->
+              <article class="team-classic team-classic-lg"><a class="team-classic-figure" href="#">
+                <img src="" alt="" style="width:400px; height:300px"/></a>
+                <div class="team-classic-caption">
+                  <h4 class="team-classic-name"><a href="#">NIDDHI MAM</a></h4>
+                  <p class="team-classic-status"> </p>
+                </div>
+              </article>
+            </div>
+
+            <div class="col-md-6 col-lg-5 col-xl-3 wow fadeInRight">
+                <!-- Team Classic-->
+                <article class="team-classic team-classic-lg"><a class="team-classic-figure" href="#">
+                  <img src="" alt="" style="width:400px; height:300px;"/></a>
+                  <div class="team-classic-caption">
+                    <h4 class="team-classic-name"><a href="#">NITIN AMBAVKAR</a></h4>
+                    <p class="team-classic-status">OWNER OF AVSI</p>
+                  </div>
+                </article>
+              </div>
+
+              <div class="col-md-6 col-lg-5 col-xl-3 wow fadeInRight">
+                <!-- Team Classic-->
+                <article class="team-classic team-classic-lg"><a class="team-classic-figure" href="#">
+                  <img src="EMPLOYEE/AKSHAY.jpg" alt="" style="width:400px; height:300px;"/></a>
+                  <div class="team-classic-caption">
+                    <h4 class="team-classic-name"><a href="#">AKSHAY SIR</a></h4>
+                    <p class="team-classic-status"></p>
+                  </div>
+                </article>
+              </div>
+
+              <div class="col-md-6 col-lg-5 col-xl-3 wow fadeInRight">
+                <!-- Team Classic-->
+                <article class="team-classic team-classic-lg"><a class="team-classic-figure" href="#">
+                  <img src="" alt="" style="width:400px; height:300px;"/></a>
+                  <div class="team-classic-caption">
+                    <h4 class="team-classic-name"><a href="#">GANESH SIR</a></h4>
+                    <p class="team-classic-status"></p>
+                  </div>
+                </article>
+              </div>
+
+            <div class="col-md-6 col-lg-5 col-xl-3 wow fadeInRight" data-wow-delay=".1s"> 
+              <!-- Team Classic-->
+              <article class="team-classic team-classic-lg">
+                <a class="team-classic-figure" href="#"><img src="EMPLOYEE/DARPAN.jpg" alt="" style="width:400px; height:300px"/></a>
+                <div class="team-classic-caption">
+                  <h4 class="team-classic-name"><a href="#">DARPAN GOSAVI</a></h4>
+                  <p class="team-classic-status">GRAPHIC DESIGNER</p>
+                </div> 
+               </article>
+            </div>
+            <div class="col-md-6 col-lg-5 col-xl-3 wow fadeInRight" data-wow-delay=".2s"> 
+              <!-- Team Classic-->
+              <article class="team-classic team-classic-lg">
+                <a class="team-classic-figure" href="#"><img src="EMPLOYEE/VIKRAM.jpg" alt="" style="width:400px; height:300px;"/></a>
+                <div class="team-classic-caption">
+                  <h4 class="team-classic-name"><a href="#">VIKRAM BASUTKAR</a></h4>
+                  <p class="team-classic-status">SENIOR ACCOUNTANT</p>
+                </div>
+              </article>
+            </div>
+
+            <div class="col-md-6 col-lg-5 col-xl-3 wow fadeInRight">
+                <!-- Team Classic-->
+                <article class="team-classic team-classic-lg"><a class="team-classic-figure" href="#">
+                  <img src="EMPLOYEE/BHUSHAN.jpg" alt="" style="width:400px; height:300px;"/></a>
+                  <div class="team-classic-caption">
+                    <h4 class="team-classic-name"><a href="#">BHUSHAN JALGAONKAR</a></h4>
+                    <p class="team-classic-status"></p>
+                  </div>
+                </article>
+              </div>
+
+              <div class="col-md-6 col-lg-5 col-xl-3 wow fadeInRight">
+                <!-- Team Classic-->
+                <article class="team-classic team-classic-lg"><a class="team-classic-figure" href="#">
+                  <img src="EMPLOYEE/PRATHAMESH.jpg" alt="" style="width:400px; height:300px;"/></a>
+                  <div class="team-classic-caption">
+                    <h4 class="team-classic-name"><a href="#">PRATHAMESH CHOUGULE</a></h4>
+                    <p class="team-classic-status">JUNIOR ACCOUNTANT</p>
+                  </div>
+                </article>
+              </div>
+
+              <div class="col-md-6 col-lg-5 col-xl-3 wow fadeInRight">
+                <article class="team-classic team-classic-lg"><a class="team-classic-figure" href="#">
+                  <img src="EMPLOYEE/KUNAL.jpg" alt="" style="width:400px; height:300px;"/></a>
+                  <div class="team-classic-caption">
+                    <h4 class="team-classic-name"><a href="#">Kunal Sable</a></h4>
+                    <p class="team-classic-status">Web Developer</p>
+                  </div>
+                </article>
+              </div>
+          </div>
+        </div>
+      </section> 
+       <!-- What people Say-->
+
+
+         <!-- Meet The Team-->
+         <section class="section section-sm section-fluid bg-default" id="team">
+            <div class="container-fluid">
+              <h2>OUR PROJECT TEAM</h2>
+              <div class="row row-sm row-30 justify-content-center">
+                <div class="col-md-6 col-lg-5 col-xl-3 wow fadeInRight">
+                  <!-- Team Classic-->
+                  <article class="team-classic team-classic-lg"><a class="team-classic-figure" href="#">
+                    <img src="EMPLOYEE/SAJID.jpg" alt="" style="width:400px; height:300px;"/></a>
+                    <div class="team-classic-caption">
+                      <h4 class="team-classic-name" style="font-size: medium;" >Sajid Kadri</a></h4>
+                    </div>
+                  </article>
+                </div>
+    
+                <div class="col-md-6 col-lg-5 col-xl-3 wow fadeInRight">
+                    <!-- Team Classic-->
+                    <article class="team-classic team-classic-lg"><a class="team-classic-figure" href="#">
+                      <img src="EMPLOYEE/GAWADE.jpg" alt="" style="width:400px; height:300px;"/></a>
+                      <div class="team-classic-caption">
+                        <h4 class="team-classic-name" style="font-size: medium;">Subhash Gawade</a></h4>
+                        <p class="team-classic-status"></p>
+                      </div>
+                    </article>
+                  </div>
+    
+                  <div class="col-md-6 col-lg-5 col-xl-3 wow fadeInRight">
+                    <!-- Team Classic-->
+                    <article class="team-classic team-classic-lg"><a class="team-classic-figure" href="#">
+                      <img src="EMPLOYEE/ANUP.jpg" alt="" style="width:400px; height:300px;"/></a>
+                      <div class="team-classic-caption">
+                        <h4 class="team-classic-name"style="font-size: medium;">Annu vishwakarma</a></h4>
+                        <p class="team-classic-status"></p>
+                      </div>
+                    </article>
+                  </div>
+    
+                  <div class="col-md-6 col-lg-5 col-xl-3 wow fadeInRight">
+                    <!-- Team Classic-->
+                    <article class="team-classic team-classic-lg"><a class="team-classic-figure" href="#">
+                      <img src="EMPLOYEE/RAM.jpg" alt="" style="width:400px; height:300px;"/></a>
+                      <div class="team-classic-caption">
+                        <h4 class="team-classic-name" style="font-size: medium;" >Ramchanda Madye</a></h4>
+                        <p class="team-classic-status"></p>
+                      </div>
+                    </article>
+                  </div>
+    
+                <div class="col-md-6 col-lg-5 col-xl-3 wow fadeInRight" data-wow-delay=".2s"> 
+                  <!-- Team Classic-->
+                  <article class="team-classic team-classic-lg">
+                    <a class="team-classic-figure" href="#"><img src="EMPLOYEE/KUNALL.jpg" alt="" style="width:400px; height:300px;"/></a>
+                    <div class="team-classic-caption">
+                      <h4 class="team-classic-name" style="font-size: medium;">Kunal Ghadavale</a></h4>
+                      <p class="team-classic-status"></p>
+                    </div>
+                  </article>
+                </div>  
+    
+                <div class="col-md-6 col-lg-5 col-xl-3 wow fadeInRight">
+                    <!-- Team Classic-->
+                    <article class="team-classic team-classic-lg"><a class="team-classic-figure" href="#">
+                      <img src="EMPLOYEE/SUSHANT.jpg" alt="" style="width:400px; height:300px;"/></a>
+                      <div class="team-classic-caption">
+                        <h4 class="team-classic-name" style="font-size: medium;">Sushant Sawant</a></h4>
+                        <p class="team-classic-status"></p>
+                      </div>
+                    </article>
+                  </div>
+    
+                
+              </div>
+            </div>
+          </section> 
+           <!-- What people Say-->
